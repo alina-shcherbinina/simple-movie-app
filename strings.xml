@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <array name="movieList">
+        <item>Twilight (2008)</item>
+        <item>The Twilight Saga: New Moon (2009)</item>
+        <item>The Twilight Saga: Eclipse (2010)</item>
+        <item>The Twilight Saga: Breaking Dawn - part 1 (2011)</item>
+        <item>The Twilight Saga: Breaking Dawn - part 2 (2012)</item>
+        <item>Leon Morin, Priest (1961)</item>
+    </array>
+</resources>
